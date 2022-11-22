@@ -1,0 +1,19 @@
+#contact{
+    text-align-last: right;
+    color: rgb(20, 19, 20);
+    width: 100vw;
+    height: 100vh;
+    background-image:url('https://thumbs.dreamstime.com/b/declutter-simplify-word-cloud-napkin-declutter-simplify-word-cloud-napkin-cup-tea-110573532.jpg') ;
+    background-repeat: no-repeat;
+
+    }
+    #style{
+        padding-top: 30px;
+        padding-right: 150px;
+        font-family: cursive;
+    }
+    .ig{
+        width: 70px;
+        height: 70px;
+        
+    }

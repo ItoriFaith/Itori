@@ -1,0 +1,34 @@
+#home{
+   
+    /* margin: 20px; */
+    padding:50px 200px;
+    text-align: top;
+    width: calc(100vw-140px);
+    height: calc(100vh - 125px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    background: beige;
+    justify-content: space-between;
+   
+}
+.image{
+    background-image: url("https://thumbs.dreamstime.com/b/declutter-concept-napkin-keep-recycle-trash-sell-donate-handwriting-cup-coffee-68992426.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80VW;
+    height: 100%;
+    border-radius: 15px;
+    
+
+}
+.words{
+    width: 50VW;
+    height: 100%;
+    font-family: cursive;
+    color: black;
+}
+
+#h3{
+    font-weight: lighter;
+}

@@ -1,0 +1,18 @@
+#head{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 0;
+
+}
+
+.contact{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.is-active{
+    text-decoration: underline;
+    color: blue;
+}

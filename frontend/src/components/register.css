@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(221, 212, 198) ;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 70px;
+    padding: 40px;
+    width:80vw;
+    height: 54vh;
+    margin: 120px ;
+    
+    background-size: cover;
+
+}
+label{
+    font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input{
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(250, 241, 229);
+}
+.form{
+    background-image: url('https://img.freepik.com/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149133927.jpg?size=626&ext=jpg&ga=GA1.2.975544662.1666087460');
+    padding-top:1%;
+    padding-bottom: 4%;
+    padding-left: 2%;
+    padding-right: 50%;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+button{
+    margin: 15px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(250, 241, 229); 
+}
